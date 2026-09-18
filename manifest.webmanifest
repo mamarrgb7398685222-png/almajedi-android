@@ -1,0 +1,12 @@
+{
+  "name": "متجر المجيدي لخدمات الهواتف الذكية",
+  "short_name": "المجيدي",
+  "description": "الجوالات والإكسسوارات والصيانة والبرمجة",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#f97316",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [{"src":"assets/icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
