@@ -33,7 +33,7 @@ public class MainActivity extends Activity {
                 return false;
             }
         });
-        webView.loadUrl("file:///android_asset/index.html");
+        webView.loadUrl("https://almajedi-store.web.app");
     }
     @Override public void onBackPressed() { if (webView.canGoBack()) webView.goBack(); else super.onBackPressed(); }
 }
